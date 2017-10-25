@@ -1,3 +1,5 @@
-ÕâÊÇÎÒÓÃÀ´Ñ§Ï°JavaScriptµÄ×ÊÁÏ
-¾õµÃÓĞÓÃµÄ×ÊÁÏ¾Í°ÑËü¸øÉÏ´«
-²Î¿¼À´×Ô£ºhttps://github.com/xugy0926/getting-started-with-javascript
+è¿™æ˜¯æˆ‘ç”¨æ¥å­¦ä¹ JavaScriptçš„èµ„æ–™
+
+è§‰å¾—æœ‰ç”¨çš„èµ„æ–™å°±æŠŠå®ƒç»™ä¸Šä¼ 
+
+å‚è€ƒæ¥è‡ªï¼šhttps://github.com/xugy0926/getting-started-with-javascript
