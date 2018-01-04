@@ -4,7 +4,7 @@ function range(start,end,step){
   if (arguments.length == 2)
     step == 1;
   if (start < end){
-    for(count=start;count<=end;count+=1){
+    for(count=start;count<=end;count+=step){
       string.push(count);
     }
   }
